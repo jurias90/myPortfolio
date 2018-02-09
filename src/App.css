@@ -1,0 +1,25 @@
+.header{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: center;
+    background: linear-gradient(to bottom, #959595 0%,#0d0d0d 46%,#010101 50%,#0a0a0a 53%,#4e4e4e 76%,#383838 87%,#1b1b1b 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
+
+.background{
+    background-image: url("./img/map.jpg")
+}
+
+.name{
+    font-size: 3em;
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif
+}
+
+.job{
+    font-size: 2em;
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+
+}
